@@ -7,5 +7,9 @@ print("exit")
 
 //these is command
 }
+ b=0
+ n=4
+ c=b/n
+ print("these is division")
 
 
